@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CH330N
+D USB serial converter, UART, SOIC-8
+K usb uart wch serial
+F http://www.wch.cn/downloads/file/240.html
+$ENDCMP
+#
+#End Doc Library

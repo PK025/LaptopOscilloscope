@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATmega16-16PU
+D 16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc2466.pdf
+$ENDCMP
+#
+$CMP ATmega16A-PU
+D 16MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8154-8-bit-AVR-ATmega16A_Datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega16L-8PU
+D 8MHz, 16kB Flash, 1kB SRAM, 512B EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc2466.pdf
+$ENDCMP
+#
+$CMP ATmega32-16PU
+D 16MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc2503.pdf
+$ENDCMP
+#
+$CMP ATmega32A-PU
+D 16MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8155-8-bit-microcontroller-avr-atmega32a_datasheet.pdf
+$ENDCMP
+#
+$CMP ATmega32L-8PU
+D 8MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, JTAG, DIP-40
+K AVR 8bit Microcontroller MegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/doc2503.pdf
+$ENDCMP
+#
+#End Doc Library

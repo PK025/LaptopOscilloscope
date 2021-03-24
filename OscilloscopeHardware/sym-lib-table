@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name atmega32u4-au)(type Legacy)(uri ${KIPRJMOD}/atmega32u4-au.lib)(options "")(descr ""))
+  (lib (name avr-isp-6)(type Legacy)(uri ${KIPRJMOD}/avr-isp-6.lib)(options "")(descr ""))
+  (lib (name atmega16l-8pu)(type Legacy)(uri ${KIPRJMOD}/atmega16l-8pu.lib)(options "")(descr ""))
+)
