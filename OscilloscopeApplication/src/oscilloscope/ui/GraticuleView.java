@@ -1,20 +1,9 @@
-//------------------------------------------------------------------------------
-/*
- *  Unauthorized copying of this file, via any medium is strictly prohibited.
- *  Proprietary and confidential.
- */
-//------------------------------------------------------------------------------
 
 package oscilloscope.ui;
 
 import javafx.animation.AnimationTimer;
-import javafx.scene.canvas.Canvas;
-import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.layout.StackPane;
-import javafx.scene.paint.Color;
-import oscilloscope.logic.Channel;
 import oscilloscope.logic.OscilloscopeModel;
-import oscilloscope.logic.Waveform;
 
 //------------------------------------------------------------------------------
 
